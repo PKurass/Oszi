@@ -1,0 +1,4 @@
+PyQt5>=5.15
+pyqtgraph>=0.13
+python-can>=4.0
+numpy>=1.26
